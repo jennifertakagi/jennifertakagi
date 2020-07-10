@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello, I'm Jennifer & I'm a Full Stack Developer 👋:robot:
+
+#### Experiences :computer:
+- Front End developer with 2 years, using Javascript, JQuery, Knockout JS, HTML, CSS, Bootstrap
+- Full Stack developer with 1 year, using Javascript, Vue JS, Cypress, Node JS, Python
+
+#### Learning about :mortar_board:
+- VSCode extension (I’m looking for help with this)
+- Big Data with Kafka, Python
+- Test Automation with Cypress
+- Node JS and Mongo DB
+
+#### Get in touch 📫
+<a href="linkedin.com/in/jennifer-takagi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **jennifertakagi/jennifertakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
