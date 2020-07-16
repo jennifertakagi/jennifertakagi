@@ -2,7 +2,7 @@
 
 ### :shipit::computer: Experiences :shipit::computer:
 - Front End developer with 2 years, using Javascript, JQuery, Knockout JS, Jinja, HTML, CSS, Bootstrap
-- Full Stack developer with 1 year, using Javascript, Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python
+- Full Stack developer with 1 year, using Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python, PHP
 
 ### :mortar_board::rocket: Learning about :mortar_board::rocket:
 - VSCode extension (I’m looking for help with this)
