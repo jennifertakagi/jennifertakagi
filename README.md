@@ -1,3 +1,13 @@
+<p>
+  <a href="https://www.linkedin.com/in/jennifer-takagi" rel="nofollow">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
+  </a>
+
+  <a href="https://medium.com/@jennifer_takagi" rel="nofollow">
+    <img src="https://img.shields.io/badge/@jennifer_takagi-%230077B5.svg?&style=plastic&logo=medium&logoColor=white&color=black" alt="Medium Badge" style="max-width:100%;">
+</a>
+</p>
+
 ### Hello, I'm Jennifer & I'm a Full Stack Developer based on Brazil 👋:robot:
 
 ### :shipit::computer: Experiences :shipit::computer:
@@ -10,9 +20,6 @@
 - Test Automation with Cypress
 - Node JS and Mongo DB
 - Micro services with Molecular JS
-
-###  📫:email: Get in touch 📫:email:
-<a href="linkedin.com/in/jennifer-takagi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **jennifertakagi/jennifertakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
