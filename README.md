@@ -4,7 +4,11 @@
   </a>
 
   <a href="https://medium.com/@jennifer_takagi" rel="nofollow">
-    <img src="https://img.shields.io/badge/@jennifer_takagi-%230077B5.svg?&style=plastic&logo=medium&logoColor=white&color=black" alt="Medium Badge" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/@jennifer_takagi-%230077B5.svg?&style=plastic&logo=medium&logoColor=white&color=12100E" alt="Medium Badge" style="max-width:100%;">
+</a>
+
+  <a href="https://codepen.io/jennifertakagi" rel="nofollow">
+    <img src="https://img.shields.io/badge/jennifertakagi-%230077B5.svg?&style=plastic&logo=codepen&logoColor=white&color=000" alt="Code Pen Badge" style="max-width:100%;">
 </a>
 </p>
 
