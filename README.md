@@ -20,7 +20,7 @@
 
 ### :mortar_board::rocket: Learning about :mortar_board::rocket:
 - VSCode extension (I’m looking for help with this)
-- Big Data with Kafka, Python
+- Getting familiarized with Clojure
 - Test Automation with Cypress
 - Node JS and Mongo DB
 - Micro services with Molecular JS
