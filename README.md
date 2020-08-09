@@ -12,7 +12,7 @@
 </a>
 </p>
 
-### Hello, I'm Jennifer & I'm a Full Stack Developer based on Brazil 👋:robot:
+### Hello, I'm Jennifer & I'm a Full Stack Developer based in Brazil 👋:robot:
 
 ### :shipit::computer: Experiences :shipit::computer:
 - Front End developer with 2 years, using Javascript, JQuery, Knockout JS, Jinja, HTML, CSS, Bootstrap
