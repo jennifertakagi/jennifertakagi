@@ -19,11 +19,10 @@
 - Full Stack developer with 1 year, using Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python, PHP, Circle CI
 
 ### :mortar_board::rocket: Learning about :mortar_board::rocket:
-- VSCode extension (I’m looking for help with this)
-- Getting familiarized with Clojure
 - Test Automation with Cypress
 - Node JS and Mongo DB
 - Micro services with Molecular JS
+- Getting familiarized with Clojure
 
 <!--
 **jennifertakagi/jennifertakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
