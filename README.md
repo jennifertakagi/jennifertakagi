@@ -22,7 +22,7 @@
 - Test Automation with Cypress
 - Node JS and Mongo DB
 - Micro services with Molecular JS
-- Getting familiarized with Clojure
+- Data structures & algorithms
 
 <!--
 **jennifertakagi/jennifertakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
