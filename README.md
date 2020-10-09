@@ -15,13 +15,13 @@
 ### Hello, I'm Jennifer & I'm a Full Stack Developer based in Brazil 👋:robot:
 
 ### :shipit::computer: Experiences :shipit::computer:
+- Full Stack developer with 1 year and half, using Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python, PHP, Circle CI
 - Front End developer with 2 years, using Javascript, JQuery, Knockout JS, Jinja, HTML, CSS, Bootstrap
-- Full Stack developer with 1 year, using Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python, PHP, Circle CI
 
 ### :mortar_board::rocket: Learning about :mortar_board::rocket:
+- Typescript 🤔
+- React's environment
 - Test Automation with Cypress
-- Node JS and Mongo DB
-- Micro services with Molecular JS
 - Data structures & algorithms
 
 <!--
