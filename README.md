@@ -16,7 +16,7 @@
 
 ### :shipit::computer: Experiences :shipit::computer:
 - Full Stack developer with 1 year and half, using Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python, PHP, Circle CI
-- Front End developer with 2 years, using Javascript, JQuery, Knockout JS, Jinja, HTML, CSS, Bootstrap
+- Front End developer with 2 years, using Javascript, React JS, JQuery, Knockout JS, Jinja, HTML, CSS, Bootstrap
 
 ### :mortar_board::rocket: Learning about :mortar_board::rocket:
 - Typescript 🤔
