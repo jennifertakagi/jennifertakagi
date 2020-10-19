@@ -12,7 +12,7 @@
 </a>
 </p>
 
-### Hello, I'm Jennifer & I'm a Software Development Analyst based in Brazil 👋:robot:
+### Hello, I'm Jennifer & I'm a Software Development based in Brazil 👋:robot:
 
 ### :shipit::computer: Experiences :shipit::computer:
 - Full Stack developer with 1 year and half, using Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python, PHP, Circle CI
