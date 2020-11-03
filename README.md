@@ -15,13 +15,14 @@
 ### Hello, I'm Jennifer & I'm a Software Developer based in Brazil 👋:robot:
 
 ### :shipit::computer: Experiences :shipit::computer:
-- Full Stack developer with 1 year and half, using Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python, PHP, Circle CI
-- Front End developer with 2 years, using Javascript, React JS, JQuery, Knockout JS, Jinja, HTML, CSS, Bootstrap
+- Software Developer, using Javascript, React JS, Node JS, Cypress, Jest, Enzyme, Golang, HTML5, and CSS3
+- FullStack Developer with 1 year and half, using Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python, PHP, Circle CI
+- FrontEnd Developer with 2 years, using Javascript, React JS, JQuery, Knockout JS, Jinja, HTML, CSS, Bootstrap
 
 ### :mortar_board::rocket: Learning about :mortar_board::rocket:
-- Typescript 🤔
+- Typescript
 - React's environment
-- Test Automation with Cypress
+- Golang
 - Data structures & algorithms
 
 <!--
