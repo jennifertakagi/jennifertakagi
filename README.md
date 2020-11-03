@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
   </a>
 
-  <a href="https://medium.com/@jennifer_takagi" rel="nofollow">
+  <a href="https://jennifer-takagi.medium.com/" rel="nofollow">
     <img src="https://img.shields.io/badge/@jennifer_takagi-%230077B5.svg?&style=plastic&logo=medium&logoColor=white&color=12100E" alt="Medium Badge" style="max-width:100%;">
 </a>
 
