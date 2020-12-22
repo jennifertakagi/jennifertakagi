@@ -22,8 +22,8 @@
 ### :mortar_board::rocket: Learning about
 - Typescript
 - React's environment
+- Cypress
 - Golang
-- Data structures & algorithms
 
 <!--
 **jennifertakagi/jennifertakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
