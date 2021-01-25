@@ -7,9 +7,14 @@
     <img src="https://img.shields.io/badge/@jennifer_takagi-%230077B5.svg?&style=plastic&logo=medium&logoColor=white&color=12100E" alt="Medium Badge" style="max-width:100%;">
 </a>
 
+  <a href="https://jennifer-takagi.vercel.app/" rel="nofollow">
+    <img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=plastic&logo=gatsby&logoColor=white&color=663399" alt="Website Badge" style="max-width:100%;">
+</a>
+
   <a href="https://codepen.io/jennifertakagi" rel="nofollow">
     <img src="https://img.shields.io/badge/jennifertakagi-%230077B5.svg?&style=plastic&logo=codepen&logoColor=white&color=000" alt="Code Pen Badge" style="max-width:100%;">
 </a>
+
 </p>
 
 ### Hello, I'm Jennifer & I'm a Software Developer based in Brazil 👋:robot:
