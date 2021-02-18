@@ -25,10 +25,9 @@
 - FrontEnd Developer (2 years), using Javascript, React JS, JQuery, Knockout JS, Jinja, HTML, CSS, Bootstrap
 
 ### :mortar_board::rocket: Learning about
-- Typescript
-- React's environment
-- Cypress
-- Elixir
+- Functional Programming with Haskell
+- Deeping dive to Typescript
+- Testing applications with Cypress
 
 <!--
 **jennifertakagi/jennifertakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
