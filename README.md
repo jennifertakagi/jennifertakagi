@@ -17,17 +17,21 @@
 
 </p>
 
-### Hello, I'm Jennifer & I'm a Software Developer based in Brazil 👋:robot:
+### Vulcan salute, I'm Jennifer & I'm a Software Developer based in Brazil :alien:
 
-### :shipit::computer: Experiences
-- Software Developer, using React JS, Node JS, TypeScript, Cypress, Jest, Enzyme and Golang
-- FullStack Developer (1 year and half), using Vue JS, Cypress, Mocha, Chai, Jest, Node JS, Molecular JS, Python, PHP, Circle CI
-- FrontEnd Developer (2 years), using Javascript, React JS, JQuery, Knockout JS, Jinja, HTML, CSS, Bootstrap
-
-### :mortar_board::rocket: Learning about
+#### I'm always interesting on learn something new :coffee::computer:
+Currently, I'm learning about the following topics:
 - Functional Programming with Haskell
 - Deeping dive to Typescript
 - Testing applications with Cypress
+
+
+#### Feel free to get in touch with me to exchange ideas, experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
+My strength knowledges are related to:
+- JavaScript, React JS, React Native, Vue JS, Node JS, TypeScript, JQuery
+- Cypress, Enzyme, Jest, Mocha, Chai
+- Python, PHP, Circle CI
+- Jinja, HTML, CSS, Bootstrap
 
 <!--
 **jennifertakagi/jennifertakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
