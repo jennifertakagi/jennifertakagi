@@ -8,7 +8,7 @@
 </a>
 
   <a href="https://jennifer-takagi.vercel.app/" rel="nofollow">
-    <img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=plastic&logo=gatsby&logoColor=white&color=663399" alt="Website Badge" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=plastic&logo=vercel&logoColor=white&color=ff5757" alt="Portfolio Badge" style="max-width:100%;">
 </a>
 
   <a href="https://codepen.io/jennifertakagi" rel="nofollow">
