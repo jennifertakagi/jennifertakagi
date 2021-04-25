@@ -23,28 +23,12 @@
 Currently, I'm learning about the following topics:
 - Functional Programming with Haskell
 - Deeping dive to Typescript
-- Testing applications with Cypress
+- Reading about Software Engineering
 
 
 #### Feel free to get in touch with me to exchange ideas, experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
 My strength knowledges are related to:
 - JavaScript, React JS, React Native, Vue JS, Node JS, TypeScript, JQuery
 - Cypress, Enzyme, Jest, Mocha, Chai
-- Python, PHP, Circle CI
+- Python, PHP, Haskell
 - Jinja, HTML, CSS, Bootstrap
-
-<!--
-**jennifertakagi/jennifertakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Jennifer's github stats](https://github-readme-stats.vercel.app/api?username=jennifertakagi)](https://github.com/jennifertakagi/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
