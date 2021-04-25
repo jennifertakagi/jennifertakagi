@@ -22,8 +22,8 @@
 #### I'm always interesting on learn something new :coffee::computer:
 Currently, I'm learning about the following topics:
 - Functional Programming with Haskell
-- Deeping dive to Typescript
 - Reading about Software Engineering
+- Deeping dive to React JS and Typescript
 
 
 #### Feel free to get in touch with me to exchange ideas, experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
