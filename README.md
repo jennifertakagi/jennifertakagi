@@ -29,6 +29,6 @@ Currently, I'm learning about the following topics:
 #### Feel free to get in touch with me to exchange ideas, experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
 My strength knowledges are related to:
 - JavaScript, React JS, React Native, Vue JS, Node JS, TypeScript, JQuery
-- Cypress, Enzyme, Jest, Mocha, Chai
+- Cypress, React Testing Library, Jest, Mocha, Chai
 - Python, PHP, Haskell
-- Jinja, HTML, CSS, Bootstrap
+- Jinja, HTML5, CSS3
