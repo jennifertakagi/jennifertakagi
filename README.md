@@ -17,7 +17,7 @@
 
 </p>
 
-### Vulcan salute, I'm Jennifer & I'm a Software Developer based in Brazil :alien:
+### Vulcan salute, I'm Jennifer & I'm a brazilian Software Developer based in Madrid :es:
 
 #### I'm always interesting on learn something new :coffee::computer:
 Currently, I'm learning about the following topics:
