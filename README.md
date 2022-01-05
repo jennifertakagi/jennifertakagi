@@ -21,14 +21,26 @@
 
 #### I'm always interesting on learn something new :coffee::computer:
 Currently, I'm learning about the following topics:
-- All power of React Query
-- Reading about Software Engineering
-- Deeping dive to React JS and Typescript
+- All the power of React Query
+- Reading about Software Engineering and Software Architeture
+- Deeping dive to React JS, Typescript and Next JS
 
 
 #### Feel free to get in touch with me to exchange ideas, experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
 My strength knowledges are related to:
-- JavaScript, React JS, React Native, Vue JS, Node JS, TypeScript, JQuery
-- Cypress, Testing Library, Jest, Mocha, Chai
-- Python, PHP, Haskell
-- Jinja, HTML5, CSS3
+<p>
+  <img src="https://img.shields.io/badge/Frontend-%230077B5.svg?&style=flat&logo=javascript&logoColor=F7DF1E&color=black" alt="Frontend Skills" style="max-width:100%;">
+  JavaScript, React JS, React Native, Vue JS, JQuery
+ </p>
+<p>
+  <img src="https://img.shields.io/badge/Backend-%230077B5.svg?&style=flat&logo=haskell&logoColor=5D4F85&color=999999" alt="Backend Skills" style="max-width:100%;">
+  TypeScript, Node JS, Next JS, Python, PHP, Haskell
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Testing-%230077B5.svg?&style=flat&logo=testing-library&logoColor=E33332&color=A8B9CC" alt="Testing Skills" style="max-width:100%;">
+  Cypress, Testing Library, Jest, Mocha, Chai
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Template-%230077B5.svg?&style=flat&logo=html5&logoColor=E34F26&color=191A1B" alt="Template Skills" style="max-width:100%;">
+  Jinja, HTML5, CSS3
+</p>
