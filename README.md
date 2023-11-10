@@ -17,17 +17,17 @@
 
 </p>
 
-### Vulcan salute, I'm Jennifer & I'm a brazilian Software Developer based in Madrid :es:
+### Vulcan salute, I'm Jennifer & I'm a Brazilian Software Developer based in Madrid :es:
 
-#### I'm always interesting on learn something new :coffee::computer:
+#### I'm always interested in learning something new :coffee::computer:
 Currently, I'm learning about the following topics:
-- All the power of React Query
-- Reading about Software Engineering and Software Architeture
-- Deeping dive to React JS, Typescript and Next JS
+- Learning about Design System
+- Testing flows with Playwright
+- Deeping dive to React JS, Typescript, and Next JS
 
 
-#### Feel free to get in touch with me to exchange ideas, experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
-My strength knowledges are related to:
+#### Feel free to get in touch with me to exchange ideas and experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
+My strength and knowledge are related to the:
 <p>
   <img src="https://img.shields.io/badge/Frontend-%230077B5.svg?&style=flat&logo=javascript&logoColor=F7DF1E&color=black" alt="Frontend Skills" style="max-width:100%;">
   JavaScript, React JS, React Native, Vue JS, JQuery
@@ -38,7 +38,7 @@ My strength knowledges are related to:
 </p>
 <p>
   <img src="https://img.shields.io/badge/Testing-%230077B5.svg?&style=flat&logo=testing-library&logoColor=E33332&color=A8B9CC" alt="Testing Skills" style="max-width:100%;">
-  Cypress, Testing Library, Jest, Mocha, Chai
+  Cypress, Playwright, Testing Library, Jest, Mocha, Chai
 </p>
 <p>
   <img src="https://img.shields.io/badge/Template-%230077B5.svg?&style=flat&logo=html5&logoColor=E34F26&color=191A1B" alt="Template Skills" style="max-width:100%;">
