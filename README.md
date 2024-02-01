@@ -2,21 +2,21 @@
   <a href="https://www.linkedin.com/in/jennifer-takagi" rel="nofollow">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
   </a>
-
+  
   <a href="https://jennifer-takagi.medium.com/" rel="nofollow">
     <img src="https://img.shields.io/badge/@jennifer_takagi-%230077B5.svg?&style=plastic&logo=medium&logoColor=white&color=12100E" alt="Medium Badge" style="max-width:100%;">
-</a>
-
+  </a>
+  
   <a href="https://jennifer-takagi.vercel.app/" rel="nofollow">
     <img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=plastic&logo=vercel&logoColor=white&color=ff5757" alt="Portfolio Badge" style="max-width:100%;">
-</a>
-
+  </a>
+  
   <a href="https://codepen.io/jennifertakagi" rel="nofollow">
     <img src="https://img.shields.io/badge/jennifertakagi-%230077B5.svg?&style=plastic&logo=codepen&logoColor=white&color=000" alt="Code Pen Badge" style="max-width:100%;">
-</a>
-
-  <a href="https://www.notion.so/jennifertakagi/Tech-Studies-8ed622f40fa944d7b7ff0bfbc0a82623" rel="nofollow">
-    <img src="https://img.shields.io/badge/study%20notes-%230077B5.svg?&style=plastic&logo=notion&logoColor=white&color=orange" alt="Study notes Badge" style="max-width:100%;">
+  </a>
+  
+  <a href="https://jennifertakagi.notion.site/jennifertakagi/Tech-Studies-8ed622f40fa944d7b7ff0bfbc0a82623" rel="nofollow">
+    <img src="https://img.shields.io/badge/tech%studies%230077B5.svg?&style=plastic&logo=notion&logoColor=white&color=orange" alt="Study notes Badge" style="max-width:100%;">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 #### I'm always interested in learning something new :coffee::computer:
 Currently, I'm learning about the following topics:
 - Improving Pyhton foundation
-- Starting first project using IA
+- Starting the first project using IA
 - Deeping dive to React JS, Typescript, and Next JS
 
 
