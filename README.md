@@ -15,26 +15,29 @@
     <img src="https://img.shields.io/badge/jennifertakagi-%230077B5.svg?&style=plastic&logo=codepen&logoColor=white&color=000" alt="Code Pen Badge" style="max-width:100%;">
 </a>
 
+  <a href="https://www.notion.so/jennifertakagi/Tech-Studies-8ed622f40fa944d7b7ff0bfbc0a82623" rel="nofollow">
+    <img src="https://img.shields.io/badge/study%20notes-%230077B5.svg?&style=plastic&logo=notion&logoColor=white&color=orange" alt="Study notes Badge" style="max-width:100%;">
+  </a>
 </p>
 
 ### Vulcan salute, I'm Jennifer & I'm a Brazilian Software Developer based in Madrid :es:
 
 #### I'm always interested in learning something new :coffee::computer:
 Currently, I'm learning about the following topics:
-- Learning about Design System
-- Testing flows with Playwright
+- Improving Pyhton foundation
+- Starting first project using IA
 - Deeping dive to React JS, Typescript, and Next JS
 
 
 #### Feel free to get in touch with me to exchange ideas and experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
-My strength and knowledge are related to the:
+My strengths and knowledge are related to the:
 <p>
   <img src="https://img.shields.io/badge/Frontend-%230077B5.svg?&style=flat&logo=javascript&logoColor=F7DF1E&color=black" alt="Frontend Skills" style="max-width:100%;">
   JavaScript, React JS, React Native, Vue JS, JQuery
  </p>
 <p>
   <img src="https://img.shields.io/badge/Backend-%230077B5.svg?&style=flat&logo=haskell&logoColor=5D4F85&color=999999" alt="Backend Skills" style="max-width:100%;">
-  TypeScript, Node JS, Next JS, Python, PHP, Haskell
+  TypeScript, Node JS, Next JS, Python, Kotlin, PHP, Haskell
 </p>
 <p>
   <img src="https://img.shields.io/badge/Testing-%230077B5.svg?&style=flat&logo=testing-library&logoColor=E33332&color=A8B9CC" alt="Testing Skills" style="max-width:100%;">
