@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/jennifertakagi-%230077B5.svg?&style=plastic&logo=codepen&logoColor=white&color=000" alt="Code Pen Badge" style="max-width:100%;">
   </a>
   
-  <a href="https://jennifertakagi.notion.site/jennifertakagi/Tech-Studies-8ed622f40fa944d7b7ff0bfbc0a82623" rel="nofollow">
+  <a href="https://img.shields.io/badge/tech%20studies-%230077B5.svg?&style=plastic&logo=notion&logoColor=white&color=grey" rel="nofollow">
     <img src="https://img.shields.io/badge/tech%studies%230077B5.svg?&style=plastic&logo=notion&logoColor=white&color=orange" alt="Study notes Badge" style="max-width:100%;">
   </a>
 </p>
