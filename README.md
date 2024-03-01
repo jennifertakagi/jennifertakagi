@@ -24,10 +24,9 @@
 
 #### I'm always interested in learning something new :coffee::computer:
 Currently, I'm learning about the following topics:
+- Deeping dive to React JS, Typescript, and Next JS
 - Improving Pyhton foundation
 - Starting the first project using IA
-- Deeping dive to React JS, Typescript, and Next JS
-
 
 #### Feel free to get in touch with me to exchange ideas and experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
 My strengths and knowledge are related to the:
