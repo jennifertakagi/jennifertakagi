@@ -24,7 +24,7 @@
 
 #### I'm always interested in learning something new :coffee::computer:
 Currently, I'm learning about the following topics:
-- Deeping dive to React JS, Typescript, and Next JS
+- Deeping dive to Node JS and Database
 - Improving Pyhton foundation
 - Starting the first project using IA
 
