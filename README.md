@@ -28,21 +28,9 @@ Currently, I'm learning about the following topics:
 - Improving Pyhton foundation
 - Starting the first project using IA
 
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifertakagi&layout=compact&theme=buefy&hide_border=true" />
+</p>
+
 #### Feel free to get in touch with me to exchange ideas and experience or if you have a doubt to be cleared up :mailbox_with_mail::memo:
-My strengths and knowledge are related to the:
-<p>
-  <img src="https://img.shields.io/badge/Frontend-%230077B5.svg?&style=flat&logo=javascript&logoColor=F7DF1E&color=black" alt="Frontend Skills" style="max-width:100%;">
-  JavaScript, React JS, React Native, Vue JS, JQuery
- </p>
-<p>
-  <img src="https://img.shields.io/badge/Backend-%230077B5.svg?&style=flat&logo=haskell&logoColor=5D4F85&color=999999" alt="Backend Skills" style="max-width:100%;">
-  TypeScript, Node JS, Next JS, Python, Kotlin, PHP, Haskell
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Testing-%230077B5.svg?&style=flat&logo=testing-library&logoColor=E33332&color=A8B9CC" alt="Testing Skills" style="max-width:100%;">
-  Cypress, Playwright, Testing Library, Jest, Mocha, Chai
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Template-%230077B5.svg?&style=flat&logo=html5&logoColor=E34F26&color=191A1B" alt="Template Skills" style="max-width:100%;">
-  Jinja, HTML5, CSS3
-</p>
+
