@@ -24,10 +24,9 @@
 
 #### I'm always interested in learning something new :coffee::computer:
 Currently, I'm learning about the following topics:
-- **Exploring React Native**
+- **Improve Pyhton foundation**
 
 Next:
-- Improve Pyhton foundation
 - Start my first projects using IA
 
 <p align="left">
